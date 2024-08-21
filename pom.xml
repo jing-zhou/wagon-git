@@ -4,7 +4,7 @@
 
 	<groupId>ar.com.synergian</groupId>
 	<artifactId>wagon-git</artifactId>
-	<version>0.3.4</version>
+	<version>0.4.0</version>
 	<packaging>jar</packaging>
 
 	<name>wagon-git</name>
@@ -141,7 +141,7 @@
 	<scm>
 		<url>https://github.com/jing-zhou/wagon-git</url>
 		<connection>scm:git:ssh://git@github.com/jing-zhou/wagon-git.git</connection>
-	  <tag>wagon-git-0.3.3</tag>
+	  <tag>wagon-git-0.4.0</tag>
   </scm>
 
 	<distributionManagement>
